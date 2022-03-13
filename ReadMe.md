@@ -7,3 +7,9 @@ A text based game made in c++. In which player have to complete different levels
 - Used #define preprocessor directives for defining text colors.
 - Used some pure virtual functions.
 - Randomness in Enemy Moves (Heal or Attack).
+
+
+![](Images/1.png)
+![](Images/2.png)
+![](Images/3.png)
+![](Images/4.png)
